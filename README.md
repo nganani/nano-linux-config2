@@ -3,6 +3,7 @@ Project for Udacity full stack web developer nanodegree
 ## What's in it?
 * AWS LightSail Ubuntu server
 * URL: http://ec2-54-93-99-7.eu-central-1.compute.amazonaws.com/ 
+  * Please note, lightsail server is currently shutdown, so cannot reach the site.
 * Server IP: 54.93.99.7
 * Installed software: 
   * Flask
